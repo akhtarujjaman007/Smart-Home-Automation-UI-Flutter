@@ -229,7 +229,7 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Developer
 
-**Sujon Siddiquee**
+**MD. AKHTARUJJAMAN SIDDIQUEE (Sujon)**
 
 - 🎓 B.Sc. in IoT & Robotics Engineering
 - 💙 Flutter Developer
