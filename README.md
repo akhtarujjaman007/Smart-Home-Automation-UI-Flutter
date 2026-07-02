@@ -105,7 +105,7 @@ lib/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/flutter-smart-home-ui.git
+git clone https://github.com/akhtarujjaman007/Smart-Home-Automation-UI-Flutter
 ```
 
 Go to the project folder
