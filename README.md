@@ -142,6 +142,18 @@ flutter run
 
 ![Dashboard](assets/screenshots/dashboard.png)
 
+## Create-new-room
+
+![Create-new-room](assets/screenshots/create-new-room.png)
+
+## Delete-room
+
+![Delete-room](assets/screenshots/delete-room.png)
+
+## Room
+
+![Bedroom](assets/screenshots/bedroom.png)
+
 ## Smart Light
 
 ![Light](assets/screenshots/light.png)
@@ -157,6 +169,7 @@ flutter run
 ## Profile
 
 ![Profile](assets/screenshots/profile.png)
+![Profile](assets/screenshots/profile1.png)
 
 ---
 
